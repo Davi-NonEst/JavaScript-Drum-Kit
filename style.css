@@ -47,7 +47,7 @@ body {
     font-size: 8pt;
 }
 
-.keydown{
+.playing{
     border: 5px solid rgba(253, 253, 5, 0.701);
     transform: scale(1.1);
 }
